@@ -14,19 +14,6 @@ The repository includes the following notebooks:
 - `random forest classifier.ipynb`: Implementation of the Random Forest classification algorithm.
 - `support_vector_machine.ipynb`: Implementation of the Support Vector Machine (SVM) algorithm.
 
-## File Structure
-
-Social_Network_Ad_Classification/
-├── data/
-│   └── Social_Network_Ads.csv
-├── decision tree.ipynb
-├── k_nearest_neighbors.ipynb
-├── kernal svm.ipynb
-├── logistic_regression.ipynb
-├── naive_bayes.ipynb
-├── random forest classifier.ipynb
-├── support_vector_machine.ipynb
-
 ## Dependencies
 
 The notebooks require the following Python libraries:
